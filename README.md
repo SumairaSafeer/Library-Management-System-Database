@@ -2,7 +2,8 @@
 
 **Open-Ended Lab Project**
 
-**Author:** Sumaira Safeer 
+**Author:** Sumaira Safeer
+
 **Course:** Database Systems  
 **Program:** BS Computer Engineering  
 **Institution:** COMSATS University Islamabad, Attock Campus  
