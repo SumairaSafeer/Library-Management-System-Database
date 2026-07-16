@@ -3,7 +3,6 @@
 **Open-Ended Lab Project**
 
 **Author:** Sumaira Safeer
-
 **Course:** Database Systems  
 **Program:** BS Computer Engineering  
 **Institution:** COMSATS University Islamabad, Attock Campus  
@@ -15,21 +14,21 @@
 
 This project involves the **design and implementation** of a **Library Management System** with database integration and a web-based application. It covers:
 
-- Database schema design
-- Entity-Relationship (ER) modeling
-- Normalization
-- SQL queries for core library operations
-- Integration with a web application
+- Database schema design.
+- Entity-Relationship (ER) modeling.
+- Normalization.
+- SQL queries for core library operations.
+- Integration with a web application.
 
 ---
 
 ## 🛠️ Key Features
 
-- Book management (Add, Update, Delete, Search)
-- Member management
-- Borrowing and return tracking
-- Fine calculation
-- Search and reporting functionality
+- Book management (Add, Update, Delete, Search).
+- Member management.
+- Borrowing and return tracking.
+- Fine calculation.
+- Search and reporting functionality.
 
 ---
 
